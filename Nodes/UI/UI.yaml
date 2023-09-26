@@ -236,22 +236,31 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 430.0
+      Value: 360.0
     - Name: TopMargin
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 15.0
+      Value: 10.0
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
-      ModellingRule: Optional
-      Value: 0.0
+      Value: 12.0
     - Name: FontWeight
       Type: BaseDataVariableType
       DataType: FontWeightEnum
       ModellingRule: Optional
       Value: 700
+    - Name: Height
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 20.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 163.0
   - Name: DateAndTime1
     Type: DateTimePicker
     Children:
